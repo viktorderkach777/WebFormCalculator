@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppCalc", "WebAppCalc\WebAppCalc.csproj", "{5A1D3FD9-F9F0-4F24-A7F4-0884A69A0CE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A1D3FD9-F9F0-4F24-A7F4-0884A69A0CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A1D3FD9-F9F0-4F24-A7F4-0884A69A0CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A1D3FD9-F9F0-4F24-A7F4-0884A69A0CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A1D3FD9-F9F0-4F24-A7F4-0884A69A0CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C471BD1-F87B-48E1-9667-D6A807D70CC7}
+	EndGlobalSection
+EndGlobal
